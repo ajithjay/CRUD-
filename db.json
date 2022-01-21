@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "firstName": "Ajith",
+      "lastName": "Ja",
+      "email": "symphony.aji@gmail.com",
+      "mobile": "9995279766",
+      "salary": "45000"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
